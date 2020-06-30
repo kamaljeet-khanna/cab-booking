@@ -22,7 +22,7 @@
 #### Find Customer Past Bookings API
 ###### GET-URL: http://localhost:8080/wednesday/cab/1
 
-## Please do set-up the MySql DB before running above APIs
+#### Please do set-up the MySql DB before running above APIs
 ```
 
 --
